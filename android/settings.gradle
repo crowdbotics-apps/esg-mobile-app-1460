@@ -1,0 +1,3 @@
+rootProject.name = 'esg_mobile_app_1460'
+
+include ':app'
